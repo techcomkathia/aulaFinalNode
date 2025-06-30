@@ -64,6 +64,7 @@ project-root/
 ├── app.js
 ├── server.js
 └── package.json
+└── .modelenv
 ```
 
 ---
