@@ -23,7 +23,7 @@ const Usuario = sequelize.define('Usuario', {
     },
     tipo: {
         type: DataTypes.ENUM('adm', 'cliente'),
-        allowNull: false
+        allowNull: false 
     }
 });
 
