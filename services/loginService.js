@@ -9,7 +9,7 @@ async function login(email, senha) {
     try {
         
         // lógica necessária para a criação do token de autenticação
-
+        return
     } catch (error) {
         return { status: 400, erro: "Erro ao fazer login: " + error.message };
     }
