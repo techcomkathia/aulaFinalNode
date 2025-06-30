@@ -129,7 +129,7 @@ Em caso de erro:
 - [MySQL](https://www.mysql.com/)
 - [JWT](https://jwt.io/)
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
-
+-[Dotenv](https://www.npmjs.com/package/dotenv)
 ---
 
 ## 🚀 Como rodar
